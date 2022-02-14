@@ -87,7 +87,10 @@ This Function call will create a platform with an (x,y) location of `(400, 200)`
             ////////////////////////////////////////////////////////////////////////
             // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
 
-            createCollectable(type.steve, 200, 170, 6, 0.7); //your example function call
+            createCollectable(type.kennedi, 200, 170, 6, 0.7);
+            createCollectable(type.steve, 450, 350, 6, 1)
+            createCollectable(type.db, 400, 500, 5, .8)
+             //your example function call
 
             // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
             ////////////////////////////////////////////////////////////////////////
